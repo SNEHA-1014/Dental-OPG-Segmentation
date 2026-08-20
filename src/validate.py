@@ -4,10 +4,6 @@ validate.py
 Validate the trained YOLOv8 segmentation model.
 
 """
-
-from ultralytics import YOLO
-
-
 # ============================================================
 # CONFIGURATION
 # ============================================================

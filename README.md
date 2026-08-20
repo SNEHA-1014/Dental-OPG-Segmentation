@@ -1,4 +1,4 @@
-# Dental OPG Multi-Class Instance Segmentation using YOLOv8
+#YOLOv8-based multi-class instance segmentation of dental conditions from panoramic OPG X-rays.
 
 ## Overview
 

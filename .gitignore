@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# YOLO Training Outputs
+runs/
+outputs/
+predictions/
+training_runs/
+
+# Model Weights
+*.pt
+*.pth
+
+# Large Dataset Files
+data/
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Temporary Files
+tmp/
+temp/
+
+# Colab
+sample_data/
+
+# Cache
+.cache/
